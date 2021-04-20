@@ -4,6 +4,7 @@
 Company | Position | Dates
 ------- | -------- | -----
 Almaty AI Lab| ML Engineer | 05/2019-Now
+IICT| ML Engineer | 08/2018-05/2019
 
 **Languages**:Python,C++
 **Electronics**:Arduino,Raspberrypi
